@@ -143,10 +143,10 @@ figure {
   &.half {
     @media only screen and (min-width: 62.5em) {
       img {
-        width: calc(25% - 4px);
+        width: calc(25% - 8px);
         float: left;
         margin-left: 1px;
-        margin-right: 1px;
+        margin-right: 19px;
       }
       figcaption {
         clear: left;
