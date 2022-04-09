@@ -11,7 +11,7 @@ tag:
 comments: false
 ---
 
-![Moon Homepage](/assets/img/pj_findme.png)    
+![Moon Homepage](/assets/img/pj_findme.jpg)    
     
 <center>얼굴인식 프로그램 구현(1人 개발)</center>
      
