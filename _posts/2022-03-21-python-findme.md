@@ -7,7 +7,7 @@ project: true
 tag:
 - sylim 
 - project
-- React
+- Python
 comments: false
 ---
 
