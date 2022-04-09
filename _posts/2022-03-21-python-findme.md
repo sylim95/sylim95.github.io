@@ -23,7 +23,7 @@ comments: false
 ## Preview
 
 {% capture images %}
-	/assets/img/pj_findme2.jpg
+	/assets/img/pj_findme.jpg
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Project" cols=3 %}
 
