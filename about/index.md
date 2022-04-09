@@ -33,4 +33,4 @@ comments: false
     /assets/img/icon_html.png
     
 {% endcapture %}
-
+{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
