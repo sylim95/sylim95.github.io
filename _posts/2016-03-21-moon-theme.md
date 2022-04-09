@@ -7,12 +7,13 @@ project: true
 tag:
 - sylim 
 - project
-comments: true
+- React
+comments: false
 ---
 
 ![Moon Homepage](/assets/img/pj_hangagu.png)    
     
-<center>간단한 쇼핑몰 구현(3人 개발)</center>
+<center>쇼핑몰 구현(3人 개발)</center>
      
 개발기간: 2021.09 ~ 2022.02<br>
 온라인 쇼핑몰의 대부분의 기능을 구현하는 간단한 웹 토이 프로젝트입니다.<br>
