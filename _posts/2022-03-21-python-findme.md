@@ -11,7 +11,7 @@ tag:
 comments: false
 ---
 
-![Moon Homepage](/assets/img/pj_findme.jpg)    
+![Moon Homepage](/assets/img/pj_findme2.png)    
     
 <center>얼굴인식 프로그램 구현(1人 개발)</center>
      
@@ -23,7 +23,7 @@ comments: false
 ## Preview
 
 {% capture images %}
-	/assets/img/pj_findme2.png
+	/assets/img/pj_findme2.jpg
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Project" cols=3 %}
 
