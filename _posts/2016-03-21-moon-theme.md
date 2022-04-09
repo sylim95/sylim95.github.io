@@ -1,15 +1,12 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
-date:   2016-04-06
-excerpt: "Minimal, one column Jekyll theme for your blog."
+title:  "쇼핑몰 구현"
+date:   2022-03-01
+excerpt: "개별적으로 개발한 토이 프로젝트"
 project: true
 tag:
-- jekyll 
-- moon
-- blog
-- about
-- theme
+- sylim 
+- project
 comments: true
 ---
 
