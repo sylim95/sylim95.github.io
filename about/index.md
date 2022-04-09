@@ -31,6 +31,16 @@ comments: false
 
 {% capture images %}
     /assets/img/icon_html.png
+    /assets/img/icon_css.png
+    /assets/img/icon_javascript.png
+    /assets/img/icon_jquery.gif
+    /assets/img/icon_react.png
+    /assets/img/icon_java.png
+    /assets/img/icon_mybatis.jpg
+    /assets/img/icon_jpa.png
+    /assets/img/icon_springboot.png
+    /assets/img/icon_svn.png
+    /assets/img/icon_git.png
     
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Skills" cols=2 %}
