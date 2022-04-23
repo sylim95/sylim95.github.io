@@ -14,7 +14,7 @@ comments: false
 </center>
 
 ## Skills
-<ul style="float: left;width: 33%;padding-left: 0;border: 1px solid #000;">
+<ul style="list-style: none; float: left;width: 33%;padding-left: 0;border: 1px solid #000;">
 	<li style="font-weight: bold;font-size: 29px;">Front</li>  
 	<li style="/* text-align: center; */">Html</li> 
 	<li>css</li> 
@@ -22,6 +22,23 @@ comments: false
 	<li>JQuery</li> 
 	<li>React</li> 
 </ul>
+<ul style="float: left;/* clear: both; */width: 33%;padding-left: 0;border: 1px solid #000;">  
+	<li style="font-weight: bold;font-size: 29px;">Back</li>
+	<li>Java</li> 
+	<li>Mybatis</li> 
+	<li>Spring JPA</li> 
+	<li>Spring Boot</li> 
+	<li>SVN</li> 
+</ul>
+<ul style="list-style: none; float: left;width: 33%;padding-left: 0;border: 1px solid #000;">
+	<li style="font-weight: bold;font-size: 29px;">Front</li>  
+	<li style="/* text-align: center; */">Html</li> 
+	<li>css</li> 
+	<li>Javascript</li> 
+	<li>JQuery</li> 
+	<li>React</li> 
+</ul>
+<ul style="float:none; clear:both;"></ul>
 
 
 ## Preview
