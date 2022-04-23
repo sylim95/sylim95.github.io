@@ -5,6 +5,7 @@ description:        "안녕하세요, 덕업일치 개발자 임수영입니다.
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.jpg'
+future:             true
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
