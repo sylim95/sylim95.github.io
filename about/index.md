@@ -21,6 +21,7 @@ comments: false
 	<li>Javascript</li> 
 	<li>JQuery</li> 
 	<li>React</li> 
+	<li>Vue</li> 
 </ul>
 <ul>
 	<li style="font-weight: bold;font-size: 29px;">Back</li>
@@ -28,15 +29,12 @@ comments: false
 	<li>Mybatis</li> 
 	<li>Spring JPA</li> 
 	<li>Spring Boot</li> 
-	<li>SVN</li> 
 </ul>
 <ul>
-	<li style="font-weight: bold;font-size: 29px;">Front</li>  
-	<li style="/* text-align: center; */">Html</li> 
-	<li>css</li> 
-	<li>Javascript</li> 
-	<li>JQuery</li> 
-	<li>React</li> 
+	<li style="font-weight: bold;font-size: 29px;">Manage</li>  
+	<li>Git</li> 
+	<li>GitHub</li> 
+	<li>SVN</li>
 </ul>
 <ul style="float:none; clear:both;"></ul>
 
