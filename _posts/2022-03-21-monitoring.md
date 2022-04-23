@@ -3,7 +3,7 @@ layout: post
 title:  "모니터링 시스템 유지보수"
 date:   2021-07-01
 excerpt: "스토리지의 상태를 모니터링할 수 있는 서비스 "
-project: false
+project: true
 tag:
 - sylim 
 - project

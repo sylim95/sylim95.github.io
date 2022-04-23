@@ -3,7 +3,7 @@ layout: post
 title:  "얼굴인식 프로그램"
 date:   2022-04-01
 excerpt: "개별적으로 개발한 토이 프로젝트"
-project: true
+project: false
 tag:
 - sylim 
 - project

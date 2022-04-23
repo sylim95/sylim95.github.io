@@ -14,17 +14,14 @@ comments: false
 </center>
 
 ## Skills
-* Html
-* css
-* Javascript
-* JQuery
-* React
-* Java
-* Mybatis
-* Spring JPA
-* Spring Boot
-* SVN
-* Git
+<ul style="float: left;width: 33%;padding-left: 0;border: 1px solid #000;">
+	<li style="font-weight: bold;font-size: 29px;">Front</li>  
+	<li style="/* text-align: center; */">Html</li> 
+	<li>css</li> 
+	<li>Javascript</li> 
+	<li>JQuery</li> 
+	<li>React</li> 
+</ul>
 
 
 ## Preview
@@ -35,12 +32,14 @@ comments: false
     /assets/img/icon_javascript.png
     /assets/img/icon_jquery.gif
     /assets/img/icon_react.png
+    /assets/img/icon_vue.png
     /assets/img/icon_java.png
     /assets/img/icon_mybatis.jpg
     /assets/img/icon_jpa.png
     /assets/img/icon_springboot.png
     /assets/img/icon_svn.png
     /assets/img/icon_git.png
+    
     
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Skills" cols=2 %}
