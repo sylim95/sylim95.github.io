@@ -4,6 +4,9 @@ ul {
 	float: left;
 	width: calc(33% - 20px);
 	padding-left: 0;
-	border: 1px solid #000; 
+	border: 5px solid;
+    border-radius: 20px;
+    border-image: linear-gradient(to right, #fbfcb9be, #ffcdf3aa, #65d3ffaa);
+    border-image-slice: 1;
 	margin: 0 10px;
 }
