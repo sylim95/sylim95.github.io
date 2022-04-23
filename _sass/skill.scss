@@ -12,8 +12,7 @@ ul {
 	margin: 0 10px;
 	min-height: 240px;
 	text-align: center;
-	&.second {
-    @media only screen and (min-width: 62.5em) {
+    @media #{$small} {
       ul {
         width: 100%;
         margin: 0 auto;
