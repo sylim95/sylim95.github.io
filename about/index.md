@@ -36,7 +36,7 @@ comments: false
 	<li>GitHub</li> 
 	<li>SVN</li>
 </ul>
-<ul style="float:none; clear:both; height: 0; border: none;"></ul>
+<div style="float:none; clear:both; height: 0; border: none;"></div>
 
 
 ## Preview
