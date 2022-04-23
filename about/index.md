@@ -13,7 +13,7 @@ comments: false
 	<a href="http://sylim95.github.io/"><b>저는 </b></a>커뮤니케이션을 우선시합니다.
 </center>
 
-## Skills
+## Skill
 <ul>
 	<li style="font-weight: bold;font-size: 29px;">Front</li>  
 	<li style="/* text-align: center; */">Html</li> 
