@@ -18,7 +18,7 @@ comments: false
      
 개발기간: 2021.7 ~ 2021.10<br>
 등록된 스토리지의 상태를 실시간으로 모니터링 해주는 서비스의 유지보수를 담당하였습니다.<br>
-Spring 기반으로 #Vue.js, #PostgreSql을 사용하였습니다.
+Spring 기반으로 #Vue.js을 사용하였습니다.
 
 
 
