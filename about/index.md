@@ -26,7 +26,9 @@ comments: false
 <ul class="skills">
 	<li style="font-weight: bold;font-size: 29px;">Back</li>
 	<li>Java</li> 
+        <li>MySQL</li>
 	<li>Mybatis</li> 
+        <li>Spring</li>
 	<li>Spring JPA</li> 
 	<li>Spring Boot</li> 
 </ul>
