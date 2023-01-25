@@ -43,18 +43,18 @@ comments: false
 ## Preview
 
 {% capture images %}
+    /assets/img/icon_java.png
+    /assets/img/icon_mybatis.jpg
+    /assets/img/icon_jpa.png
+    /assets/img/icon_springboot.png
+    /assets/img/icon_aws.png
+    /assets/img/icon_git.png
+    /assets/img/icon_redis.png
     /assets/img/icon_html.png
     /assets/img/icon_css.png
     /assets/img/icon_javascript.png
     /assets/img/icon_jquery.gif
     /assets/img/icon_react.png
-    /assets/img/icon_vue.png
-    /assets/img/icon_java.png
-    /assets/img/icon_mybatis.jpg
-    /assets/img/icon_jpa.png
-    /assets/img/icon_springboot.png
-    /assets/img/icon_svn.png
-    /assets/img/icon_git.png
     
     
 {% endcapture %}
