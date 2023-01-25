@@ -15,28 +15,27 @@ comments: false
 
 ## Skills
 <ul class="skills">
+	<li style="font-weight: bold;font-size: 29px;">Back</li>
+	<li>Java</li> 
+    <li>MSA</li>
+	<li>Spring JPA</li> 
+	<li>Spring Boot</li> 
+    <li>MySQL</li>
+	<li>Mybatis</li> 
+</ul>
+<ul class="skills">
 	<li style="font-weight: bold;font-size: 29px;">Front</li>  
 	<li>Html</li> 
 	<li>css</li> 
 	<li>Javascript</li> 
 	<li>JQuery</li> 
 	<li>React</li> 
-	<li>Vue</li> 
-</ul>
-<ul class="skills">
-	<li style="font-weight: bold;font-size: 29px;">Back</li>
-	<li>Java</li> 
-        <li>MySQL</li>
-	<li>Mybatis</li> 
-        <li>Spring</li>
-	<li>Spring JPA</li> 
-	<li>Spring Boot</li> 
 </ul>
 <ul class="skills">
 	<li style="font-weight: bold;font-size: 29px;">Manage</li>  
-	<li>Git</li> 
+	<li>GitLab</li> 
 	<li>GitHub</li> 
-	<li>SVN</li>
+    <li>AWS</li> 
 </ul>
 <div style="float:none; clear:both; height: 0; border: none;"></div>
 
