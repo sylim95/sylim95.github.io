@@ -51,7 +51,7 @@ comments: false
     /assets/img/icon_jpa.png
     /assets/img/icon_mybatis.jpg
     /assets/img/icon_redis.png
-    /assets/img/icon_kafka.png
+    /assets/img/icon_kafka.jpeg
     /assets/img/icon_git.png
     /assets/img/icon_aws.png
     /assets/img/icon_grafana.jpeg
