@@ -54,7 +54,7 @@ comments: false
     /assets/img/icon_kafka.jpeg
     /assets/img/icon_git.png
     /assets/img/icon_aws.png
-    /assets/img/icon_grafana.jpeg
+    /assets/img/icon_grafana.png
     /assets/img/icon_docker.png
     /assets/img/icon_javascript.png
     
