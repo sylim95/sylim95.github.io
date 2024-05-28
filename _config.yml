@@ -10,7 +10,7 @@ background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://sylim95.github.io
-blog:               https://sylim.tistory.com/
+blog:               https://www.notion.so/Sylim-s-Deviary-752a39ab3ce04a5d95c6058faf81ffec
 
 # Jekyll
 permalink:          /:title/
