@@ -15,14 +15,14 @@ comments: false
 
 ## Skills
 <ul class="skills">
-	<li style="font-weight: bold;font-size: 29px;">Language & Framework</li>
+	<li style="font-weight: bold;font-size: 29px;">Technologies</li>
 	<li>Java</li> 
     <li>Spring Boot</li> 
 	<li>Spring Batch</li> 
     <li>Micro Service Architecture</li> 
 </ul>
 <ul class="skills">
-	<li style="font-weight: bold;font-size: 29px;">Database & message</li>  
+	<li style="font-weight: bold;font-size: 29px;">DB, message</li>  
 	<li>MySQL(Aurora)</li> 
     <li>Spring JPA</li> 
     <li>MyBatis</li> 
@@ -30,7 +30,7 @@ comments: false
 	<li>Kafka</li> 
 </ul>
 <ul class="skills">
-	<li style="font-weight: bold;font-size: 29px;">Manage</li>  
+	<li style="font-weight: bold;font-size: 29px;">Tools</li>  
 	<li>GitLab/Github</li> 
 	<li>Jenkins</li> 
     <li>AWS</li> 
