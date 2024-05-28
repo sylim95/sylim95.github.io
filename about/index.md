@@ -47,7 +47,7 @@ comments: false
 {% capture images %}
     /assets/img/icon_java.png
     /assets/img/icon_springboot.png
-    /assets/img/icon_mysql.png
+    /assets/img/icon_mysql_2.png
     /assets/img/icon_jpa.png
     /assets/img/icon_mybatis.jpg
     /assets/img/icon_redis.png
