@@ -15,27 +15,29 @@ comments: false
 
 ## Skills
 <ul class="skills">
-	<li style="font-weight: bold;font-size: 29px;">Back</li>
+	<li style="font-weight: bold;font-size: 29px;">Language & Framework</li>
 	<li>Java</li> 
-    <li>MSA</li>
-	<li>Spring JPA</li> 
-	<li>Spring Boot</li> 
-    <li>MySQL</li>
-	<li>Mybatis</li> 
+    <li>Spring Boot</li> 
+	<li>Spring Batch</li> 
+    <li>Micro Service Architecture</li> 
 </ul>
 <ul class="skills">
-	<li style="font-weight: bold;font-size: 29px;">Front</li>  
-	<li>Html</li> 
-	<li>css</li> 
-	<li>Javascript</li> 
-	<li>JQuery</li> 
-	<li>React</li> 
+	<li style="font-weight: bold;font-size: 29px;">Database & message</li>  
+	<li>MySQL(Aurora)</li> 
+    <li>Spring JPA</li> 
+    <li>MyBatis</li> 
+	<li>Redis</li> 
+	<li>Kafka</li> 
 </ul>
 <ul class="skills">
 	<li style="font-weight: bold;font-size: 29px;">Manage</li>  
-	<li>GitLab</li> 
-	<li>GitHub</li> 
+	<li>GitLab/Github</li> 
+	<li>Jenkins</li> 
     <li>AWS</li> 
+    <li>Docker</li> 
+    <li>Grafana</li> 
+    <li>ELK</li> 
+    <li>pinpoint</li> 
 </ul>
 <div style="float:none; clear:both; height: 0; border: none;"></div>
 
@@ -44,18 +46,17 @@ comments: false
 
 {% capture images %}
     /assets/img/icon_java.png
-    /assets/img/icon_mybatis.jpg
-    /assets/img/icon_jpa.png
     /assets/img/icon_springboot.png
-    /assets/img/icon_aws.png
-    /assets/img/icon_git.png
+    /assets/img/icon_mysql.png
+    /assets/img/icon_jpa.png
+    /assets/img/icon_mybatis.jpg
     /assets/img/icon_redis.png
-    /assets/img/icon_html.png
-    /assets/img/icon_css.png
+    /assets/img/icon_kafka.png
+    /assets/img/icon_git.png
+    /assets/img/icon_aws.png
+    /assets/img/icon_grafana.png
+    /assets/img/icon_docker.png
     /assets/img/icon_javascript.png
-    /assets/img/icon_jquery.gif
-    /assets/img/icon_react.png
-    
     
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Skills" cols=2 %}
