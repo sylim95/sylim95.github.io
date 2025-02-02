@@ -22,7 +22,7 @@ comments: false
     <li>Micro Service Architecture</li> 
 </ul>
 <ul class="skills">
-	<li style="font-weight: bold;font-size: 29px;">DB, message</li>  
+	<li style="font-weight: bold;font-size: 29px;">DB/Message</li>  
 	<li>MySQL(Aurora)</li> 
     <li>Spring JPA</li> 
     <li>MyBatis</li> 
@@ -36,7 +36,6 @@ comments: false
     <li>AWS</li> 
     <li>Docker</li> 
     <li>Grafana</li> 
-    <li>ELK</li> 
     <li>pinpoint</li> 
 </ul>
 <div style="float:none; clear:both; height: 0; border: none;"></div>
