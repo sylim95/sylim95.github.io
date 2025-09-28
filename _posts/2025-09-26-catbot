@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "실시간 대화 서비스 CAT BOT"
+date:   2025-09-26
+excerpt: "AI와 자유롭게 대화하며 자연스러운 경험을 제공하는 실시간 서비스"
+project: true
+tag:
+- sylim 
+- project
+- Azure OpenAI(GPT 4.1-mini)
+- AWS Transcribe Streaming
+- Azure Speech Service
+- WebSocket
+- Java & Spring Boot
+- MongoDB
+- Grafana
+- Pinpoint
+- k6
+comments: false
+---
+
+![Moon Homepage](/assets/img/pj_cats_bot.png)    
+    
+<center>신규 기능 개발 및 운영</center>
+     
+개발기간: 2025.04 ~ 2025.09
+신규 사용자 유입을 목적으로, 음성 및 텍스트 기반의 실시간 대화 서비스를 구축했습니다. <br>
+AWS Transcribe Streaming 기반 STT 파이프라인과 GPT 4.1-mini 기반 대화 기능을 구현하고, <br>
+모델 튜닝과 성능 검증을 통해 안정적인 서비스 제공에 기여했습니다. <br>
+#Azure #OpenAI #AWS #Spring Boot #Java 21 #MongoDB #WebSocket #k6 #Grafana #Pinpoint
+
+## Preview
+
+{% capture images %}
+	/assets/img/pj_cats_bot_01.png
+	/assets/img/pj_cats_bpt_02.png
+{% endcapture %}
+{% include gallery images=images caption="Screenshots of Project" cols=3 %}
+
+---
